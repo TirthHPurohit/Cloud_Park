@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="List of Service provided"
+        android:id="@+id/id1"/>
+
+    <item
+        android:title="Intership/Training"
+        android:id="@+id/id2"/>
+
+    <item
+        android:title="Top IT Company"
+
+        android:id="@+id/id3"/>
+
+    <item
+        android:title="About Us"
+        android:id="@+id/id4"/>
+    <item
+        android:title="Contact Details"
+        android:id="@+id/id5"/>
+</menu>
